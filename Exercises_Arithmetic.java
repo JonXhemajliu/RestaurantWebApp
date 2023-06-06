@@ -4,10 +4,10 @@ public class Exercises_Arithmetic extends Exercises_Trigonometry {
 	public static Scanner input = new Scanner(System.in);
 
 	
-	/*
+	
 	public static void Arithmetic() {
 	    System.out.println("Level: " + Topics.Arithmetic + "\n" + "\n");
-         */
+         
 	    //ToDo write all the integers as inputs
 			
 	System.out.println("Enter values of a and b to perform the equations below");

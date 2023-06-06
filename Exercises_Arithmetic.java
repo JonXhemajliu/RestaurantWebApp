@@ -3,13 +3,17 @@ import java.util.Scanner;
 public class Exercises_Arithmetic extends Exercises_Trigonometry {
 	public static Scanner input = new Scanner(System.in);
 
+	
+	/*
 	public static void Arithmetic() {
 	    System.out.println("Level: " + Topics.Arithmetic + "\n" + "\n");
-
+         */
 	    //ToDo write all the integers as inputs
 			
 	System.out.println("Enter values of a and b to perform the equations below");
 		
+		
+	
 	System.out.println("a = 10 ");
 	System.out.println("b = 2 ");
 	System.out.println("Result of a + b is 12");
@@ -17,6 +21,7 @@ public class Exercises_Arithmetic extends Exercises_Trigonometry {
 	System.out.println("Result of a / b is 5");
 	System.out.println("Result of a * b is 20"); 
 			
+		
 			
 		System.out.println("Enter first number : " );
 		Double numri1 = input.nextDouble();

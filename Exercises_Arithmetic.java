@@ -16,7 +16,6 @@ public class Exercises_Arithmetic extends Exercises_Trigonometry {
 	System.out.println("Result of a - b is 8");
 	System.out.println("Result of a / b is 5");
 	System.out.println("Result of a * b is 20"); 
-	System.out.println("Remainder of a / b is 0" +  "\n");
 			
 			
 		System.out.println("Enter first number : " );

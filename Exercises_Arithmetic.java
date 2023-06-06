@@ -10,7 +10,6 @@ public class Exercises_Arithmetic extends Exercises_Trigonometry {
 			
 	System.out.println("Enter values of a and b to perform the equations below");
 		
-	System.out.println("a = 10 ");
 	System.out.println("b = 2 ");
 	System.out.println("Result of a + b is 12");
 	System.out.println("Result of a - b is 8");
